@@ -1,0 +1,3 @@
+echo "Django>=4.0
+djangorestframework
+djangorestframework-simplejwt" > requirements.txt
